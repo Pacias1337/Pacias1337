@@ -56,8 +56,8 @@ A modern **Productivity & Focus** application designed to eliminate distractions
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pacias1337&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacias1337&layout=compact&theme=tokyonight&hide_border=true" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pacias1337&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacias1337&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 ---
