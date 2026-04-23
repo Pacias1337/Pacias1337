@@ -63,7 +63,8 @@ A modern **Productivity & Focus** application designed to eliminate distractions
 ---
 
 ### 🎸 Beyond Coding  
-When I'm not in front of a IDE, I'm likely:
+When I'm not in front of an IDE, I'm likely:
+- 🎮 **Gaming & Game Dev:** I’m a passionate gamer and I am currently channeling that energy into **developing my own game using the Godot Engine**.
 - ⚡ **Playing Electric Guitar:** I’m a huge fan of heavy metal music and love shredding on my guitar.
 - 🏃‍♂️ **Staying Active:** Fitness is a big part of my life. I enjoy running and hitting the gym, and I am currently working towards becoming a **Certified Personal Trainer**.
 
