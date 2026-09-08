@@ -58,14 +58,6 @@ Portfolio analytics and data automation engine tailored for Polish individual re
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pacias1337&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pacias1337&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
 ### 🌎 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/mateusz-paciej/" target="_blank">
