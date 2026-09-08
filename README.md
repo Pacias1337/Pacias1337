@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-QA_Automation_%26_AI-0052CC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Certified-Postman_QA_Path_v12-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/API_Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
