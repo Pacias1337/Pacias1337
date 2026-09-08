@@ -1,56 +1,60 @@
 <h1 align="center">👋 Hi, I'm Mateusz Paciej!</h1>
-<h3 align="center">Computer Science Student | FQA Tester | Aspiring AI Developer</h3>
+<h3 align="center">Quality Assurance Engineer | AI & Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_%26_ML-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Main_Project-Focus_Engine-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-QA_Automation_%26_AI-0052CC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certified-Postman_QA_Path_v12-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
 
 ### 🚀 About Me  
-I am a **Computer Science student at WSB Merito University** with a unique blend of technical foundation and interpersonal skills. My professional journey is currently centered around **Quality Assurance (FQA)** and software development, where I bridge the gap between complex technology and user needs.
+I am a **Computer Science student (specializing in AI Engineering)** at WSB Merito University with a solid foundation in **Quality Assurance and software automation**. I combine commercial laboratory testing experience with software development, bridging the gap between rigorous QA standards, API validation, and modern AI/ML workflows.
 
-- 🤖 **AI Enthusiast:** My primary interest lies in Artificial Intelligence. I am constantly learning and implementing AI/ML solutions into my projects to make them smarter and more efficient.
-- 🛠️ **FQA Expertise:** I have experience in comprehensive functional testing, cross-platform verification, and managing product lifecycles in Jira.
-- 📈 **Continuous Growth:** I strive to transform theoretical knowledge into practical, high-value applications.
+- 🛠️ **Quality Assurance & Verification:** Commercial background in functional and regression testing across desktop, consoles, and mobile. Solid understanding of bug lifecycles, test execution, and issue tracking in Jira.
+- 🔗 **API & Integration Testing:** Skilled in inspecting, validating, and debugging REST APIs using **Postman**, HTTP status validation, JSON payloads, and automated test assertions.
+- 🤖 **AI & Engineering Focus:** Actively implementing Python-based automation and exploring practical AI/ML models to improve testing efficiency, data parsing, and application performance.
 
 ---
 
 ### 🛠️ Tech Stack  
 
-**Languages & Logic**
+**Testing & QA Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
-</p>
-
-**Web Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
-
-**Tools & Systems**
-<p align="left">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+**Languages & Data Logic**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+**Environments & Platforms**
+<p align="left">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-Steam_Deck_%2F_Consoles-171A21?style=for-the-badge&logo=steam&logoColor=white">
 </p>
 
 ---
 
-### 📌 Featured Project  
+### 📌 Featured Projects  
 
 #### 🌲 [Focus Engine](https://github.com/Pacias1337/Focus-Engine)
-A modern **Productivity & Focus** application designed to eliminate distractions and build healthy work habits.
-- **Key Features:** Combines gamification (growing virtual trees) with advanced system-level blocking of distracting processes and websites.
-- **Tech:** Developed with a focus on system integration and user experience.
+Desktop productivity and process-management software written in Python.
+- **Key Features:** System-level process and domain blocking, background thread execution, and UI persistence using local storage.
+- **Tech:** Python, CustomTkinter, OS/Process integration.
+
+#### 📈 [IKE Dividend Tracker](https://github.com/Pacias1337) *(In Development)*
+Portfolio analytics and data automation engine tailored for Polish individual retirement accounts (IKE).
+- **Key Features:** Fetches live financial data via REST APIs, evaluates dividend cash-flows with Pandas, and caches history locally with SQLite.
+- **Tech:** Python, Pandas, REST APIs, SQLite caching.
 
 ---
 
@@ -62,17 +66,9 @@ A modern **Productivity & Focus** application designed to eliminate distractions
 
 ---
 
-### 🎸 Beyond Coding  
-When I'm not in front of an IDE, I'm likely:
-- 🎮 **Gaming & Game Dev:** I’m a passionate gamer and I am currently channeling that energy into **developing my own game using the Godot Engine**.
-- ⚡ **Playing Electric Guitar:** I’m a huge fan of heavy metal music and love shredding on my guitar.
-- 🏃‍♂️ **Staying Active:** Fitness is a big part of my life. I enjoy running and hitting the gym, and I am currently working towards becoming a **Certified Personal Trainer**.
-
----
-
-### 🌎 Connect with me  
+### 🌎 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/mateusz-paciej/">
+  <a href="https://www.linkedin.com/in/mateusz-paciej/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:m.paciej05@gmail.com">
