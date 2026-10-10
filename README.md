@@ -56,19 +56,6 @@ I work as a **Functional QA Tester at Keywords Studios** (since 08/2025), testin
 
 ---
 
-### 📌 Side Projects
-*Built with AI assistance while exploring Python.*
-
-#### 🌲 [Focus Engine](https://github.com/Pacias1337/Focus-Engine)
-Desktop productivity app that blocks distracting processes and domains.
-- **Tech:** Python, CustomTkinter
-
-#### 📈 IKE Dividend Tracker *(in development)*
-Tool for analysing dividends in Polish retirement accounts (IKE).
-- **Tech:** Python, Pandas, REST APIs, SQLite
-
----
-
 ### 🌎 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mateusz-paciej/" target="_blank">
